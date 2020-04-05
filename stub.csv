@@ -1,0 +1,601 @@
+,Date,Day,Event,Time,Venue
+1,Aug 05,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+2,Aug 05,Sat,Wicked,2:00 PM,"Gershwin Theatre
+New York, NY"
+3,Aug 05,Sat,Charlie and the Chocolate Factory,2:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+4,Aug 05,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+5,Aug 05,Sat,Hello Dolly,8:00 PM,"Shubert Theatre-NYC
+New York, NY"
+6,Aug 05,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+7,Aug 05,Sat,Wicked,8:00 PM,"Gershwin Theatre
+New York, NY"
+8,Aug 05,Sat,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+9,Aug 05,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+10,Aug 06,Sun,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+11,Aug 06,Sun,Hamilton - New York,3:00 PM,"Richard Rodgers Theatre
+New York, NY"
+12,Aug 06,Sun,Charlie and the Chocolate Factory,6:30 PM,"Lunt-Fontanne Theater
+New York, NY"
+13,Aug 07,Mon,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+14,Aug 07,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+15,Aug 08,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+16,Aug 08,Tue,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+17,Aug 08,Tue,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+18,Aug 09,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+19,Aug 09,Wed,Wicked,2:00 PM,"Gershwin Theatre
+New York, NY"
+20,Aug 09,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+21,Aug 09,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+22,Aug 10,Thu,Bette Midler in Hello Dolly!,7:00 PM,"Shubert Theatre-NYC
+New York, NY"
+23,Aug 10,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+24,Aug 10,Thu,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+25,Aug 11,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+26,Aug 11,Fri,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+27,Aug 12,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+28,Aug 12,Sat,Charlie and the Chocolate Factory,2:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+29,Aug 12,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+30,Aug 12,Sat,Hello Dolly,8:00 PM,"Shubert Theatre-NYC
+New York, NY"
+31,Aug 12,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+32,Aug 12,Sat,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+33,Aug 13,Sun,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+34,Aug 13,Sun,Charlie and the Chocolate Factory,6:30 PM,"Lunt-Fontanne Theater
+New York, NY"
+35,Aug 14,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+36,Aug 15,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+37,Aug 15,Tue,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+38,Aug 16,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+39,Aug 16,Wed,Wicked,2:00 PM,"Gershwin Theatre
+New York, NY"
+40,Aug 16,Wed,Lionel Richie and Mariah Carey,7:00 PM,"Wells Fargo Center-PA
+Philadelphia, PA"
+41,Aug 16,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+42,Aug 17,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+43,Aug 17,Thu,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+44,Aug 18,Fri,Lionel Richie and Mariah Carey,7:00 PM,"Prudential Center
+Newark, NJ"
+45,Aug 18,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+46,Aug 18,Fri,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+47,Aug 19,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+48,Aug 19,Sat,Charlie and the Chocolate Factory,2:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+49,Aug 19,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+50,Aug 19,Sat,Avenue Q,8:00 PM,"New World Stages-Stage 3
+New York, NY"
+51,Aug 19,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+52,Aug 19,Sat,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+53,Aug 19,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+54,Aug 20,Sun,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+55,Aug 20,Sun,Hamilton - New York,3:00 PM,"Richard Rodgers Theatre
+New York, NY"
+56,Aug 21,Mon,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+57,Aug 21,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+58,Aug 22,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+59,Aug 23,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+60,Aug 23,Wed,Wicked,2:00 PM,"Gershwin Theatre
+New York, NY"
+61,Aug 23,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+62,Aug 23,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+63,Aug 24,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+64,Aug 25,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+65,Aug 26,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+66,Aug 26,Sat,Charlie and the Chocolate Factory,2:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+67,Aug 26,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+68,Aug 26,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+69,Aug 26,Sat,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+70,Aug 26,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+71,Aug 27,Sun,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+72,Aug 27,Sun,Charlie and the Chocolate Factory,6:30 PM,"Lunt-Fontanne Theater
+New York, NY"
+73,Aug 28,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+74,Aug 29,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+75,Aug 29,Tue,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+76,Aug 30,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+77,Aug 30,Wed,Wicked,2:00 PM,"Gershwin Theatre
+New York, NY"
+78,Aug 30,Wed,Charlie and the Chocolate Factory,2:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+79,Aug 30,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+80,Aug 30,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+81,Aug 31,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+82,Sep 01,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+83,Sep 01,Fri,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+84,Sep 02,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+85,Sep 02,Sat,Charlie and the Chocolate Factory,2:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+86,Sep 02,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+87,Sep 02,Sat,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+88,Sep 04,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+89,Sep 05,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+90,Sep 05,Tue,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+91,Sep 06,Wed,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+92,Sep 06,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+93,Sep 06,Wed,Wicked,2:00 PM,"Gershwin Theatre
+New York, NY"
+94,Sep 06,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+95,Sep 06,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+96,Sep 07,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+97,Sep 07,Thu,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+98,Sep 08,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+99,Sep 08,Fri,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+100,Sep 08,Fri,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+101,Sep 09,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+102,Sep 09,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+103,Sep 09,Sat,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+104,Sep 09,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+105,Sep 10,Sun,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+106,Sep 10,Sun,Charlie and the Chocolate Factory,6:30 PM,"Lunt-Fontanne Theater
+New York, NY"
+107,Sep 11,Mon,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+108,Sep 11,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+109,Sep 12,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+110,Sep 12,Tue,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+111,Sep 12,Tue,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+112,Sep 13,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+113,Sep 13,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+114,Sep 13,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+115,Sep 14,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+116,Sep 15,Fri,Hello Dolly,8:00 PM,"Shubert Theatre-NYC
+New York, NY"
+117,Sep 15,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+118,Sep 15,Fri,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+119,Sep 16,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+120,Sep 16,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+121,Sep 16,Sat,2cellos,8:00 PM,"Radio City Music Hall
+New York, NY"
+122,Sep 16,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+123,Sep 16,Sat,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+124,Sep 17,Sun,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+125,Sep 17,Sun,Charlie and the Chocolate Factory,6:30 PM,"Lunt-Fontanne Theater
+New York, NY"
+126,Sep 18,Mon,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+127,Sep 18,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+128,Sep 19,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+129,Sep 20,Wed,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+130,Sep 20,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+131,Sep 20,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+132,Sep 20,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+133,Sep 21,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+134,Sep 22,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+135,Sep 22,Fri,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+136,Sep 23,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+137,Sep 23,Sat,Charlie and the Chocolate Factory,2:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+138,Sep 23,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+139,Sep 23,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+140,Sep 23,Sat,Charlie and the Chocolate Factory,8:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+141,Sep 23,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+142,Sep 24,Sun,Charlie and the Chocolate Factory,1:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+143,Sep 24,Sun,Charlie and the Chocolate Factory,6:30 PM,"Lunt-Fontanne Theater
+New York, NY"
+144,Sep 25,Mon,Charlie and the Chocolate Factory,7:00 PM,"Lunt-Fontanne Theater
+New York, NY"
+145,Sep 25,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+146,Sep 26,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+147,Sep 27,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+148,Sep 27,Wed,Wicked,2:00 PM,"Gershwin Theatre
+New York, NY"
+149,Sep 27,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+150,Sep 27,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+151,Sep 28,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+152,Sep 28,Thu,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+153,Sep 29,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+154,Sep 29,Fri,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+155,Sep 30,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+156,Sep 30,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+157,Sep 30,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+158,Sep 30,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+159,Oct 02,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+160,Oct 03,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+161,Oct 03,Tue,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+162,Oct 04,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+163,Oct 04,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+164,Oct 04,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+165,Oct 05,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+166,Oct 05,Thu,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+167,Oct 06,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+168,Oct 07,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+169,Oct 07,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+170,Oct 07,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+171,Oct 07,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+172,Oct 09,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+173,Oct 10,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+174,Oct 10,Tue,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+175,Oct 11,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+176,Oct 11,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+177,Oct 11,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+178,Oct 12,Thu,Bette Midler in Hello Dolly!,7:00 PM,"Shubert Theatre-NYC
+New York, NY"
+179,Oct 12,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+180,Oct 12,Thu,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+181,Oct 13,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+182,Oct 13,Fri,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+183,Oct 14,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+184,Oct 14,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+185,Oct 14,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+186,Oct 16,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+187,Oct 17,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+188,Oct 17,Tue,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+189,Oct 18,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+190,Oct 18,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+191,Oct 18,Wed,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+192,Oct 19,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+193,Oct 19,Thu,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+194,Oct 20,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+195,Oct 20,Fri,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+196,Oct 21,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+197,Oct 21,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+198,Oct 21,Sat,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+199,Oct 23,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+200,Oct 24,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+201,Oct 25,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+202,Oct 25,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+203,Oct 26,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+204,Oct 27,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+205,Oct 27,Fri,Hamilton - New York,8:00 PM,"Richard Rodgers Theatre
+New York, NY"
+206,Oct 28,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+207,Oct 28,Sat,Bette Midler in Hello Dolly!,8:00 PM,"Shubert Theatre-NYC
+New York, NY"
+208,Oct 28,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+209,Oct 29,Sun,Hamilton - New York,3:00 PM,"Richard Rodgers Theatre
+New York, NY"
+210,Oct 30,Mon,Hamilton - New York,7:00 PM,"Richard Rodgers Theatre
+New York, NY"
+211,Oct 30,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+212,Oct 31,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+213,Nov 01,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+214,Nov 01,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+215,Nov 02,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+216,Nov 03,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+217,Nov 04,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+218,Nov 04,Sat,Hamilton - New York,2:00 PM,"Richard Rodgers Theatre
+New York, NY"
+219,Nov 04,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+220,Nov 06,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+221,Nov 07,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+222,Nov 08,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+223,Nov 08,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+224,Nov 09,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+225,Nov 10,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+226,Nov 11,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+227,Nov 11,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+228,Nov 13,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+229,Nov 14,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+230,Nov 15,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+231,Nov 15,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+232,Nov 16,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+233,Nov 17,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+234,Nov 18,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+235,Nov 18,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+236,Nov 20,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+237,Nov 21,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+238,Nov 22,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+239,Nov 22,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+240,Nov 24,Fri,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+241,Nov 24,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+242,Nov 25,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+243,Nov 25,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+244,Nov 27,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+245,Nov 28,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+246,Nov 29,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+247,Nov 29,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+248,Nov 30,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+249,Dec 01,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+250,Dec 02,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+251,Dec 02,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+252,Dec 04,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+253,Dec 05,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+254,Dec 06,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+255,Dec 06,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+256,Dec 07,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+257,Dec 08,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+258,Dec 09,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+259,Dec 09,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+260,Dec 11,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+261,Dec 12,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+262,Dec 13,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+263,Dec 13,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+264,Dec 14,Thu,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+265,Dec 15,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+266,Dec 16,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+267,Dec 16,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+268,Dec 17,Sun,Blood Sweat and Tears,8:00 PM,"BB Kings Blues Club-NYC
+New York, NY"
+269,Dec 18,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+270,Dec 19,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+271,Dec 20,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+272,Dec 21,Thu,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+273,Dec 22,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+274,Dec 23,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+275,Dec 23,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+276,Dec 25,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+277,Dec 26,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+278,Dec 27,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+279,Dec 27,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+280,Dec 28,Thu,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+281,Dec 29,Fri,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+282,Dec 29,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+283,Dec 30,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+284,Dec 30,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+285,Jan 01,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+286,Jan 02,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+287,Jan 03,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+288,Jan 03,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+289,Jan 04,Thu,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+290,Jan 05,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+291,Jan 06,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+292,Jan 06,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+293,Jan 08,Mon,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+294,Jan 09,Tue,Miss Saigon,7:00 PM,"Broadway Theatre-NYC
+New York, NY"
+295,Jan 10,Wed,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+296,Jan 10,Wed,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+297,Jan 11,Thu,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+298,Jan 12,Fri,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
+299,Jan 13,Sat,Miss Saigon,2:00 PM,"Broadway Theatre-NYC
+New York, NY"
+300,Jan 13,Sat,Miss Saigon,8:00 PM,"Broadway Theatre-NYC
+New York, NY"
